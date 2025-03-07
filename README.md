@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-As a Full Stack Developer with a Bachelor of Science in Computer Science from the University of Central Punjab, I bring a unique blend of academic rigor and hands-on technical experience. My skill set encompasses:
+As a Full Stack Developer with a Bachelor of Science in Computer Science from the The Superior University, I bring a unique blend of academic rigor and hands-on technical experience. My skill set encompasses:
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -36,8 +36,8 @@ Each of these projects not only challenged my technical skills but also honed my
 As I continue to expand my expertise across various technologies, I am enthusiastic about opportunities to apply my skills to challenging and innovative projects. I am keen to connect with professionals and organizations that value cutting-edge technology and creative problem-solving. If you are looking for a dedicated and skilled developer who is passionate about driving technological solutions, I welcome the chance to connect and explore how we can collaborate.
 
 ### 📫 How to Reach Me:
-- Email: [aliyanrizwandev@gmail.com](mailto:aliyanrizwandev@gmail.com)
-- LinkedIn: [Mohammad Aliyan](https://www.linkedin.com/in/aliyanrizwandev/)
+- Email: [muazzia9@gmail.com](mailto:muazzia9@gmail.com)
+- LinkedIn: [Muaz Zia](https://www.linkedin.com/in/https://www.linkedin.com/in/muazzia-webdeveloper/)
 
 ### ⚡ Fun Fact:
 I love solving puzzles and challenges—whether they’re coding problems or brain teasers!
